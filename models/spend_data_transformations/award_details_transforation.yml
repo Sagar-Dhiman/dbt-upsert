@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: "spend_data"
+    database: "spenddatav2"
+    schema: "transaction"
+    tables:
+      - name: "award_details"
